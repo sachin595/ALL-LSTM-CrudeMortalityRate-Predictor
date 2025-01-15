@@ -31,9 +31,11 @@
 
 ## Introduction
 
-This project focuses on developing advanced predictive analytics for **Acute Lymphoblastic Leukemia (ALL)** by utilizing a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two key health metrics: **Crude Mortality Rate** (number of deaths per 100,000 individuals in a given year) and **Survival Rate** (likelihood of survival as a percentage). By leveraging demographic and temporal factors such as **age, sex, ethnicity, race, and year,** the model provides robust insights into health outcomes.
+**Acute Lymphoblastic Leukemia (ALL)**, a rapidly progressing cancer of the blood and bone marrow, poses significant challenges for effective diagnosis and treatment, particularly in understanding the factors that influence mortality and survival rates. Early and precise prediction of these rates is critical for enhancing treatment strategies, optimizing resource allocation, and improving patient outcomes.
 
-Additionally, an interactive **diagnostic tool** has been deployed, allowing users to input specific demographic and temporal details to generate predictions. This tool serves as a practical application of the model, aiding researchers and healthcare professionals in assessing trends and disparities in **Acute Lymphoblastic Leukemia** outcomes. The project emphasizes precision and temporal modeling to support informed decision-making in public health and oncology.
+This project addresses these challenges by employing advanced predictive analytics through a **Long Short-Term Memory (LSTM)** neural network. The model is designed to predict two vital health metrics: **Crude Mortality Rate** (the number of deaths per 100,000 individuals annually) and Survival Rate (the percentage likelihood of survival). By leveraging demographic and temporal factors—such as **age, sex, ethnicity, race, and year**—the model offers comprehensive insights into the trends and disparities in ALL outcomes.
+
+In addition to providing actionable predictions, the project integrates an **interactive diagnostic tool** that allows users to input specific demographic and temporal details to generate personalized projections. This tool bridges the gap between research and practical application, empowering healthcare professionals and researchers to better understand the **disease’s trajectory and tailor interventions** accordingly. By focusing on precision, temporal modeling, and demographic analysis, this project aims to advance public health strategies and oncology practices for Acute Lymphoblastic Leukemia.
 
 ---
 
