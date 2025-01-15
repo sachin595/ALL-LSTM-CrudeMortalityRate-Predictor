@@ -113,7 +113,7 @@ The LSTM model comprises:
 
 Below is the summary of the LSTM model:
 
-![LSTM Model Architecture](ALL_result.png)
+![LSTM Model Architecture](lstm.png)
 
 ---
 
@@ -133,7 +133,7 @@ The project includes a Streamlit-based diagnostic tool that allows users to inpu
 
 - Access the tool here: [Acute Lymphoblastic Leukemia Diagnostic Tool](https://acute-lymphoblastic-leukemia-lstm.streamlit.app/)
 - ### Example Output
-![Diagnostic Tool Screenshot](Picture1.png)
+![Diagnostic Tool Screenshot](ALL_result.png)
 
 ---
 
