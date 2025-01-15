@@ -14,6 +14,7 @@
 6. [Model Architecture](#model-architecture)
 7. [Results](#results)
 8. [Diagnostic Tool](#diagnostic-tool)
+9. [License](#license)
 
 
 ---
@@ -136,5 +137,18 @@ The project includes a Streamlit-based diagnostic tool that allows users to inpu
 ![Diagnostic Tool Screenshot](ALL_result.png)
 
 ---
+## License
+
+The data used in this project is sourced from the **CDC WONDER Online Database** ("1999-2020 Mortality Data"). The use of this data is subject to the following restrictions, as outlined by the CDC WONDER:
+
+1. **Purpose of Use**: The data is provided exclusively for statistical reporting and analysis. It may not be used for commercial purposes.
+2. **Prohibition of Identification**: Users must not attempt to identify individuals or establishments in the dataset. If an individual's identity is inadvertently discovered, it must not be disclosed or used, and the discovery should be reported to the NCHS Confidentiality Officer.
+3. **Presentation Restrictions**: Published data must not include statistics based on counts of nine or fewer deaths, births, or events to prevent potential identification of individuals.
+4. **No Redistribution**: Redistribution of the raw data or datasets is prohibited.
+
+For more details, visit the [CDC WONDER Data Use Restrictions](https://wonder.cdc.gov/DataUse.html).
+
+By accessing and using the data in this repository, users agree to comply with these restrictions and respect the privacy of the data subjects.
+
 
 
