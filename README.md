@@ -1,8 +1,19 @@
 # Predictive Analytics for Acute Lymphoblastic Leukemia (ALL)
 
-![LSTM](https://img.shields.io/badge/LSTM-Model-blue)
-![Streamlit](https://img.shields.io/badge/Tool-Streamlit-orange)
-![License](https://img.shields.io/badge/License-CDC%20Data%20Use-green)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://acute-lymphoblastic-leukemia-lstm.streamlit.app/)
+
+![Research Medical AI](https://img.shields.io/badge/Research-Medical%20AI-green.svg)
+[![License](https://img.shields.io/badge/License-CDC%20Data%20Use-lightgrey)](https://wonder.cdc.gov/DataUse.html)
+[![Dataset](https://img.shields.io/badge/Dataset-CDC%20WONDER-blue)](https://wonder.cdc.gov/)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-orange)
+![Model](https://img.shields.io/badge/Model-LSTM-red)
+![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
+![Numpy](https://img.shields.io/badge/Library-Numpy-yellow)
+![Scikit-learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)
+
+
 
 ## Table of Contents
 
