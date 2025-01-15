@@ -1,7 +1,7 @@
 # Predictive Analytics for Acute Lymphoblastic Leukemia (ALL)
 
 ![LSTM](https://img.shields.io/badge/LSTM-Model-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Tool-orange)
+![Streamlit](https://img.shields.io/badge/Tool-Streamlit-orange)
 ![License](https://img.shields.io/badge/License-CDC%20Data%20Use-green)
 
 ## Table of Contents
