@@ -6,7 +6,6 @@
 [![License](https://img.shields.io/badge/License-CDC%20Data%20Use-lightgrey)](https://wonder.cdc.gov/DataUse.html)
 [![Dataset](https://img.shields.io/badge/Dataset-CDC%20WONDER-blue)](https://wonder.cdc.gov/)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-LSTM-orange)
 ![Model](https://img.shields.io/badge/Model-LSTM-red)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow)
 ![Numpy](https://img.shields.io/badge/Library-Numpy-yellow)
